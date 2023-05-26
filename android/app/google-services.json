@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604210841630",
+    "project_id": "electionapp-b2eac",
+    "storage_bucket": "electionapp-b2eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604210841630:android:f122349fe0a4ac8d53060f",
+        "android_client_info": {
+          "package_name": "com.electionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604210841630-8nh9r5qv1k8i87afjena75k4kfmi0blr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_5Hgi3u6e54Ih4duOQDnIq53enYl68w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604210841630-8nh9r5qv1k8i87afjena75k4kfmi0blr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604210841630-ddq866s1ucqbv37cmkth8s42427si61u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.electionapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
